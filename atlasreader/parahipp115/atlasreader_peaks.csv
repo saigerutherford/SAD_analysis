@@ -1,0 +1,7 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+    1,  -60,   14,   11,4.19571,40392,Frontal_Inf_Oper_L,Unknown,29% Left_Inferior_Frontal_Gyrus_pars_opercularis; 5% Left_Precentral_Gyrus
+    2,   30,    5,  -31,4.40339,17388,ParaHippocampal_R,Right-Cerebral-White-Matter,15% Right_Temporal_Pole; 7% Right_Parahippocampal_Gyrus_anterior_division
+    3,  -30,   -7,  -16,3.76721,16470,Hippocampus_L,Left-Cerebral-White-Matter,33% Left_Amygdala
+    4,   69,  -28,    8,3.94832,13257,Temporal_Sup_R,ctx-rh-superiortemporal,40% Right_Superior_Temporal_Gyrus_posterior_division
+    5,  -18,   17,   26,2.86788, 4401,no_label,Left-Cerebral-White-Matter,0% no_label
+    6,    6,  -19,   59,2.84015, 2700,Supp_Motor_Area_R,ctx-rh-paracentral,48% Right_Precentral_Gyrus; 7% Right_Juxtapositional_Lobule_Cortex_(formerly_Supplementary_Motor_Cortex)

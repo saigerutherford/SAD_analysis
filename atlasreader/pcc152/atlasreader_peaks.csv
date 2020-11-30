@@ -1,0 +1,6 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+    1,    9,  -73,   17,4.10068,51678,Calcarine_R,ctx-rh-pericalcarine,39% Right_Intracalcarine_Cortex; 9% Right_Cuneal_Cortex; 7% Right_Supracalcarine_Cortex
+    2,  -21,  -52,   62,3.68957,21708,Parietal_Sup_L,Left-Cerebral-White-Matter,46% Left_Superior_Parietal_Lobule; 11% Left_Postcentral_Gyrus; 7% Left_Lateral_Occipital_Cortex_superior_division
+    3,  -30,  -52,  -43,-3.55705, 4023,Cerebelum_8_L,Left-Cerebellum-White-Matter,0% no_label
+    4,   30,  -49,   59,3.38252, 3672,Parietal_Sup_R,ctx-rh-superiorparietal,49% Right_Superior_Parietal_Lobule
+    5,   30,   62,   17,-3.05294, 3402,Frontal_Sup_2_R,Unknown,67% Right_Frontal_Pole

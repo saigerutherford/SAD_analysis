@@ -1,0 +1,16 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+    1,   69,   -7,   17,4.35156,34263,Postcentral_R,Unknown,11% Right_Postcentral_Gyrus
+    2,  -57,  -52,   17,4.29622,32454,Temporal_Mid_L,Unknown,41% Left_Angular_Gyrus; 25% Left_Supramarginal_Gyrus_posterior_division; 5% Left_Middle_Temporal_Gyrus_temporooccipital_part
+    3,   -9,   35,   50,4.47961,16875,Frontal_Sup_Medial_L,Left-Cerebral-White-Matter,39% Left_Superior_Frontal_Gyrus; 8% Left_Frontal_Pole
+    4,  -42,    2,   59,3.72029,10233,Precentral_L,Unknown,45% Left_Middle_Frontal_Gyrus; 12% Left_Precentral_Gyrus
+    5,  -18,  -55,  -25,3.79646, 8424,Cerebelum_6_L,Left-Cerebellum-Cortex,0% no_label
+    6,  -57,   -7,   41,3.07277, 4995,Postcentral_L,Unknown,61% Left_Precentral_Gyrus; 28% Left_Postcentral_Gyrus
+    7,   -6,   62,    2,2.88618, 4698,Frontal_Sup_Medial_L,ctx-lh-superiorfrontal,85% Left_Frontal_Pole
+    8,  -48,   -7,  -37,3.36101, 3996,Temporal_Inf_L,ctx-lh-inferiortemporal,59% Left_Inferior_Temporal_Gyrus_anterior_division; 21% Left_Inferior_Temporal_Gyrus_posterior_division; 6% Left_Temporal_Fusiform_Cortex_posterior_division
+    9,   48,   38,   29,-3.56944, 3699,Frontal_Mid_2_R,ctx-rh-rostralmiddlefrontal,39% Right_Frontal_Pole; 22% Right_Middle_Frontal_Gyrus
+   10,    6,  -16,   23,-3.65662, 3645,no_label,Right-Cerebral-White-Matter,51% Right_Lateral_Ventricle
+   11,   27,  -25,    5,-2.846, 3591,no_label,Right-Cerebral-White-Matter,0% no_label
+   12,   51,  -73,   17,2.90784, 3132,Temporal_Mid_R,ctx-rh-lateraloccipital,52% Right_Lateral_Occipital_Cortex_superior_division; 32% Right_Lateral_Occipital_Cortex_inferior_division
+   13,   48,   11,  -31,3.3238, 2835,Temporal_Pole_Mid_R,ctx-rh-superiortemporal,67% Right_Temporal_Pole
+   14,  -21,  -16,   11,-3.22125, 2700,no_label,Left-Cerebral-White-Matter,0% no_label
+   15,   18,  -13,  -34,3.2134, 2538,no_label,Unknown,16% Right_Parahippocampal_Gyrus_anterior_division

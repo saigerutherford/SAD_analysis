@@ -1,0 +1,9 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+    1,   60,    5,   38,3.92564,30969,Precentral_R,Unknown,40% Right_Precentral_Gyrus
+    2,  -42,  -22,  -19,4.47111,21843,Temporal_Inf_L,ctx-lh-fusiform,25% Left_Inferior_Temporal_Gyrus_posterior_division; 23% Left_Temporal_Fusiform_Cortex_posterior_division
+    3,  -63,    2,   -7,3.47617,13554,no_label,Unknown,11% Left_Superior_Temporal_Gyrus_anterior_division
+    4,   15,   -7,   32,3.50557, 8451,no_label,Right-Cerebral-White-Matter,0% no_label
+    5,  -54,  -76,    5,3.72104, 7236,no_label,Unknown,64% Left_Lateral_Occipital_Cortex_inferior_division
+    6,    6,  -19,   53,4.08691, 5481,Supp_Motor_Area_R,ctx-rh-paracentral,52% Right_Precentral_Gyrus
+    7,   21,  -13,  -34,4.09842, 5130,no_label,ctx-rh-entorhinal,50% Right_Parahippocampal_Gyrus_anterior_division
+    8,    9,   56,   17,3.13744, 4455,Frontal_Sup_Medial_R,Right-Cerebral-White-Matter,23% Right_Superior_Frontal_Gyrus; 19% Right_Frontal_Pole; 8% Right_Paracingulate_Gyrus

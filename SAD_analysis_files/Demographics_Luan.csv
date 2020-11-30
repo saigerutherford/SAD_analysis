@@ -1,0 +1,205 @@
+﻿Subject,Dx,Age,Gender,"Race (1=White, 2=Black, 3=Asian, 4=Other)",Co-Morbidity 
+RDPT095,1,34,2,1,"MDD, GAD"
+RDPT087,1,20,2,1,"MDD, PD, GAD"
+RDPT074,1,21,2,1,MDD
+RDPT051,1,28,2,1,"PTSD, GAD"
+RDPT044,1,20,1,1,"MDD, PD "
+RDPT033,1,18,2,1,"Specific phobia, animal type (dogs)"
+RDPT018,1,39,1,2,none
+RDPT016,1,26,2,1,none
+RDPT004,1,30,1,1,GAD
+RDPT103,1,23,1,1,"MDD, Alcohol abuse, OCD"
+RDPT132,1,22,1,3,"MDD, GAD"
+RDPT141,1,20,2,3,"Dysthmia, Current Persisitent Depression-w/pure dysthymic syndrome, Panic Disorder, Phobia-Heights"
+RDPT146,1,39,1,1,"MDD, GAD, Panic, Current PDD w/Intermittent MDE w/Current Episode"
+RDPT147,1,27,2,1,"GAD, Panic Disorder, Current PDD w/Persistent Dythymic"
+RDPT159,1,20,2,1,GAD
+RDPT162,1,19,2,2,"MDD, Panic, Agorophobia, Phobia-darkness, GAD, Curent PDDw/ intermittent MDD-current episode"
+RDPT165,1,18,2,1,"MDD, GAD, Current Persistent Depressive Disorder w/intermittent MDD w/ current episode"
+RDPT168,1,18,2,2,"MDD, GAD, Agorophobia, PTSD"
+RDPT169,1,19,2,3,"BED, MDD, Panic"
+RDPT184,1,19,2,4,"SAD, Agoraphobia, Phobia-needles, MDD"
+RDPT190,1,18,2,2,"GAD, Agorophobia, phobia-blood"
+RDPT196,1,23,1,4,"GAD, Phobia-clowns"
+RDPT197,1,18,2,3,"MDD sxs, Phobia sxs-needles, GAD, BED sxs"
+RDPT207,1,19,1,4,"MDD, Panic, Phobia-spiders, GAD"
+RDHC001,0,60,1,2,
+RDHC003,0,18,2,1,
+RDHC004,0,19,1,3,
+RDHC005,0,18,2,1,
+RDHC006,0,19,1,3,
+RDHC007,0,18,2,2,
+RDHC008,0,18,2,1,
+RDHC010,0,20,1,3,
+RDHC013 ,0,19,2,1,
+RDHC014,0,20,2,3,
+RDHC015,0,24,1,3,
+RDHC016,0,29,2,4,
+RDHC019,0,28,1,3,
+RDHC021,0,22,2,1,
+RDHC022,0,25,1,3,
+RDHC023,0,20,2,2,
+RDHC024,0,25,2,2,
+RDHC025,0,20,2,1,
+RDHC026,0,42,2,4,
+RDHC027,0,59,2,1,
+RDHC030,0,20,2,2,
+RDHC032,0,20,2,1,
+RDHC034,0,18,2,1,
+RDHC036,0,20,1,3,
+RDHC037,0,21,1,1,
+RDHC038,0,20,1,2,
+RDHC039,0,22,1,3,
+RDHC041,0,26,1,1,
+RDHC042,0,19,1,3,
+RDHC045,0,22,2,2,
+RDHC046,0,29,2,1,
+RDHC050,0,20,2,2,
+RDHC051,0,27,1,1,
+RDHC052,0,26,1,1,
+RDHC054,0,29,1,4,
+RDHC055,0,22,2,4,
+RDHC056,0,23,1,1,
+RDHC058,0,20,1,3,
+RDHC059,0,24,1,3,
+CSAD001,0,50,2,1,
+CSAD003,0,22,2,4,
+CSAD006,0,43,2,3,
+CSAD007,0,31,2,4,
+CSAD009,0,21,1,4,
+CSAD012,0,26,2,1,
+CSAD013,0,22,1,3,
+CSAD015,0,49,1,2,
+CSAD017,0,24,2,1,
+CSAD019,0,30,1,1,
+CSAD023,0,18,2,2,
+CSAD024,0,18,2,2,
+CSAD033,0,22,2,1,
+CSAD034,0,27,2,2,
+CSAD035,0,28,2,1,
+CSAD036,0,20,2,1,
+CSAD039,0,19,2,1,
+CSAD040,0,18,2,3,
+CSAD042,0,24,2,3,
+CSAD043,0,22,2,3,
+CSAD044,0,24,1,3,
+CSAD045 ,0,29,1,3,
+CSAD048,0,29,2,3,
+CSAD049,0,18,1,1,
+CSAD050,0,22,2,1,
+CSAD051,0,31,2,1,
+CSAD052,0,20,1,3,
+CSAD053,0,23,2,1,
+CSAD054,0,30,2,1,
+CSAD055,0,28,2,1,
+CSAD057,0,22,2,3,
+CSAD058,0,30,1,1,
+CSAD060,0,27,2,1,
+PSAD001,1,47,2,1,none
+PSAD002,1,32,2,3,none
+PSAD004,1,23,2,1,none
+PSAD005,1,28,1,1,none
+PSAD006,1,22,2,3,GAD
+PSAD008,1,46,1,1,GAD
+PSAD010,1,31,2,2,GAD
+PSAD012,1,20,2,1,GAD
+PSAD015,1,26,2,3,PD
+PSAD017,1,25,2,3,none
+PSAD020,1,22,1,4,none
+PSAD021,1,29,2,3,none
+PSAD023,1,23,2,2,"GAD, Specific Phobia situational type (flying)"
+PSAD025,1,29,2,1,none
+PSAD026,1,33,2,4,MDD current single episode
+PSAD031,1,25,2,3,"GAD, ADHD"
+PSAD033,1,24,2,1,Specific Phobia situational type (flying)
+PSAD034,1,24,2,1,none
+PSAD035,1,20,1,4,none
+PSAD037,1,19,2,4,GAD
+PSAD040,1,20,1,3,GAD
+PSAD041,1,20,2,4,
+PSAD044,1,27,1,4,"GAD, MDD"
+PSAD047,1,21,2,1,GAD
+PSAD050,1,22,1,4,"Dysthymia, GAD"
+PSAD051,1,24,2,1,"GAD, Dysthymia, PTSD, MDD, PD"
+PSAD061,1,23,2,1,"GAD, MDD chronic"
+PSAD063,1,24,2,1,PD
+PSAD067,1,25,2,1,GAD 
+PSAD076,1,22,2,1,none
+PSAD086,1,26,2,1,none
+PSAD088,1,26,2,3,"Binge eating, PTSD, Dysthymia"
+PSAD091,1,29,2,1,"Binge drinking, history of binge eating (on remission), persistent depressive disorder"
+PSAD092,1,23,1,1,"Persistent Depressive Disorder, Acute Adjustment Disorder, Mild Binge Eating"
+PSAD094,1,19,2,1,"GAD, Specific phobia- blood injection injury type"
+PSAD096,1,24,2,1,"GAD, PDD"
+PSAD102,1,21,2,1,"GAD, Specific phobia- blood injection injury type"
+PSAD104,1,26,2,1,"Panic attacks, GAD"
+PSAD112,1,23,2,1,"PTSD, MDD, PD, Alcohol abuse (*not at baseline, but by session 12)"
+PSAD117,1,24,2,3,MDD
+PSAD118,1,21,1,1,MDD
+PSAD121,1,21,2,4,"MDD, GAD, PD, Anorexia"
+PSAD123,1,19,2,1,MDD
+PSAD124,1,22,2,3,"MDD, Specific phobia animal type"
+PSAD127,1,18,1,1,MDD
+PSAD135,1,21,2,1,none
+PSAD137,1,20,2,4,none
+PSAD138,1,33,2,1,"GAD, PTSD"
+PSAD140,1,21,1,1,MDD
+PSAD141,1,23,2,1,none
+PSAD143,1,36,2,1,MDD
+PSAD144,1,22,1,1,dysthymia w/ periods of MDD
+PSAD145,1,33,2,4,"MDD, Panic"
+PSAD146,1,26,1,1,"Specific phobia (flying), SAD"
+PSAD148,1,19,2,3,n/a
+PSAD149,1,32,1,1,n/a
+PSAD153,1,25,1,1,MDD
+PSAD155,1,24,2,1,"MDD, Panic w agoraphobia, GAD"
+PSAD159,1,23,1,1,PD
+PSAD162,1,32,1,1,Dysthymia (PDD with pure dysthymic syndrome)
+PSAD163,1,19,2,1,MDD
+PSAD167,1,20,2,3,none
+PSAD168,1,44,2,1,MDD
+PCS001,1,18,1,1,none
+PCS002,1,25,1,3,GAD
+PCS005,1,23,2,1,GAD
+PCS006,1,20,2,1,"GAD, Adjustment Disorder"
+PCS007,1,18,1,1,Specific phobia
+PCS009,1,29,1,3,"GAD, insomnia, ADHD"
+PCS011,1,28,2,1,"Specific phobia, GAD, Insomnia"
+PCS013,1,19,1,1,"Panic, Insomnia, Hypersomnolence"
+PCS014,1,21,2,2,none
+PCS015,1,27,2,3,GAD
+PCS017,1,24,2,3,"GAD, specific phobia, Premenstrual Dysphoric Disorder, Insomnia, Hypersomnolence, BED"
+PCS019,1,23,1,3,"Panic, GAD, Hypersomnolence"
+PCS021,1,30,2,1,"GAD, Insomnia"
+PCS026,1,24,1,1,GAD
+PCS027,1,19,2,1,None
+PCS029,1,31,1,2,none
+PCS030,1,52,2,1,none
+PCS031,1,23,2,3,Hypersomnolence
+PCS033,1,33,2,1,"PTSD, Panic"
+PCS040,1,28,1,3,None
+PCS042,1,19,2,4,Specific phobia - animal & blood-injection-injury
+PCS043,1,19,1,2,"GAD, insomnia *SUBTHRESHOLD*"
+PCS044,1,20,1,4,Insomia
+PCS045,1,22,1,3,None
+PCS048,1,22,2,1,None 
+PCS053,1,20,2,1,GAD
+PCS057,1,27,1,2,GAD
+PCS058,1,20,2,2,"GAD, Hypersomnolence"
+PCS060,1,20,2,1,"GAD, PMDD provisional dx"
+PCS061,1,28,2,1,none
+PCS067,1,22,2,2,subclincal PDD
+PCS072,1,27,2,2,subclinical Insomnia 
+CCS001,0,30,1,1,
+CCS002,0,28,2,1,
+CCS003,0,26,2,3,
+CCS004,0,31,1,3,
+CCS006,0,27,2,1,
+CCS009,0,18,2,3,
+CCS011,0,22,2,3,
+CCS012,0,24,2,3,
+CCS014,0,24,1,3,
+CCS015,0,25,1,4,
+CCS016,0,24,1,3,
+CCS017,0,24,1,3,
+CCS019,0,22,2,1,

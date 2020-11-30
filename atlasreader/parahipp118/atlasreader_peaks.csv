@@ -1,0 +1,9 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+    1,  -39,  -13,  -34,4.34273,51246,Fusiform_L,ctx-lh-fusiform,39% Left_Temporal_Fusiform_Cortex_posterior_division; 19% Left_Temporal_Fusiform_Cortex_anterior_division; 15% Left_Inferior_Temporal_Gyrus_posterior_division; 6% Left_Inferior_Temporal_Gyrus_anterior_division
+    2,   66,   -4,   26,3.86186,33615,Postcentral_R,ctx-rh-postcentral,36% Right_Postcentral_Gyrus; 16% Right_Precentral_Gyrus
+    3,    6,  -16,   59,3.62168, 9018,Supp_Motor_Area_R,ctx-rh-paracentral,48% Right_Precentral_Gyrus; 14% Right_Juxtapositional_Lobule_Cortex_(formerly_Supplementary_Motor_Cortex)
+    4,   33,   -7,  -34,3.54259, 6696,Fusiform_R,Right-Cerebral-White-Matter,29% Right_Temporal_Fusiform_Cortex_anterior_division; 24% Right_Parahippocampal_Gyrus_anterior_division; 18% Right_Temporal_Fusiform_Cortex_posterior_division
+    5,    0,  -82,  -13,-2.93115, 5562,no_label,Unknown,31% Left_Lingual_Gyrus; 18% Right_Lingual_Gyrus
+    6,  -24,  -52,   68,3.36899, 3942,Parietal_Sup_L,Left-Cerebral-White-Matter,62% Left_Superior_Parietal_Lobule; 6% Left_Lateral_Occipital_Cortex_superior_division
+    7,  -57,  -70,   -7,2.87381, 3132,no_label,Unknown,47% Left_Lateral_Occipital_Cortex_inferior_division
+    8,  -21,  -76,  -22,-2.78608, 2565,Cerebelum_6_L,Left-Cerebellum-Cortex,0% no_label

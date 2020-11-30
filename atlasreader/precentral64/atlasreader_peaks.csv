@@ -1,0 +1,14 @@
+cluster_id,peak_x,peak_y,peak_z,peak_value,volume_mm,aal,desikan_killiany,harvard_oxford
+    1,   60,    8,   32,4.35912,35883,Precentral_R,ctx-rh-precentral,77% Right_Precentral_Gyrus
+    2,  -63,  -16,    5,4.22176,20007,Temporal_Sup_L,ctx-lh-superiortemporal,40% Left_Planum_Temporale; 13% Left_Superior_Temporal_Gyrus_posterior_division; 11% Left_Superior_Temporal_Gyrus_anterior_division
+    3,  -12,   11,   -4,-3.45261,18765,Putamen_L,Left-Caudate,43% Left_Caudate; 20% Left_Accumbens
+    4,   45,  -70,   20,4.14136,15417,Temporal_Mid_R,Unknown,68% Right_Lateral_Occipital_Cortex_superior_division
+    5,  -30,  -64,   56,-3.19975,10044,Parietal_Sup_L,ctx-lh-superiorparietal,58% Left_Lateral_Occipital_Cortex_superior_division; 6% Left_Superior_Parietal_Lobule
+    6,   18,    5,   -1,-3.39908, 7317,Pallidum_R,Right-Pallidum,70% Right_Pallidum; 26% Right_Putamen
+    7,   30,   14,  -31,3.86109, 5643,Temporal_Pole_Sup_R,ctx-rh-temporalpole,77% Right_Temporal_Pole
+    8,   30,  -34,  -25,3.11476, 5346,Cerebelum_4_5_R,Unknown,71% Right_Temporal_Fusiform_Cortex_posterior_division; 9% Right_Temporal_Occipital_Fusiform_Cortex
+    9,  -45,  -79,   29,2.83112, 4347,Occipital_Mid_L,Unknown,87% Left_Lateral_Occipital_Cortex_superior_division
+   10,  -36,  -25,  -22,3.29749, 3456,Fusiform_L,Left-Cerebral-White-Matter,56% Left_Temporal_Fusiform_Cortex_posterior_division; 8% Left_Parahippocampal_Gyrus_posterior_division; 6% Left_Parahippocampal_Gyrus_anterior_division
+   11,   39,  -61,  -31,-3.24321, 3321,Cerebelum_Crus1_R,Right-Cerebellum-Cortex,0% no_label
+   12,   27, -100,   -7,-3.02119, 3267,Occipital_Inf_R,ctx-rh-lateraloccipital,50% Right_Occipital_Pole
+   13,   -9,  -97,   -4,-2.97885, 2565,Calcarine_L,ctx-lh-pericalcarine,68% Left_Occipital_Pole
